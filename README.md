@@ -13,4 +13,4 @@ Existem apenas dois passos para executar este site:
 
 ## Licença
 
-MIT
+Apache 2.0
